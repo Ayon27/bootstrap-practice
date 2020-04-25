@@ -1,3 +1,12 @@
+body {
+  padding-top: 50px;
+  z-index: 0;
+}
+
+.navbar-dark {
+  background-color: #512da8;
+}
+
 .row-header {
   margin: 0px;
   padding: 0px;
@@ -21,6 +30,7 @@
   margin: 0px auto;
   background-color: #9575cd;
   color: floralwhite;
+  border-radius: 0 0 5px 0.5%;
 }
 
 .address {
